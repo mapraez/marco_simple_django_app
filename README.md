@@ -2,4 +2,4 @@
 
 ReSkillAmerica Django app Project
   
-![ScreenShot](/ScreenShot.png)
+![ScreenShot](/django.png)
