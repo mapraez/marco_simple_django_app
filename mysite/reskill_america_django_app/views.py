@@ -12,5 +12,5 @@ data = {
 }
 
 # Create your views here.
-def index(request):
+def test_function_name(request):
     return JsonResponse(data)
